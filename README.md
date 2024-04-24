@@ -63,4 +63,4 @@ https://github.com/cross-psix/FreeCrypto/assets/167144765/a3bbcfbe-48d4-473a-8e8
 
 
 ## License
-This project is licensed under MIT - see the [License](https://github.com/culm65gonzo/Nicehash-airdrop/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/cross-psix/FreeCrypto/blob/main/LICENSE)
