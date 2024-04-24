@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-%20%7C%20Windows%20%7C%20-blue)
-![creo2](https://github.com/IvanErrix/Freecrypto/assets/58328953/4c923887-8a71-4738-b904-bc1b03f7d95a)
+![creo2](https://github.com/cross-psix/FreeCrypto/assets/167144765/bc535c45-163e-4d01-8fbe-73a549c36171)
 
 
 
@@ -28,7 +28,8 @@
 
 
 
-https://github.com/IvanErrix/Freecrypto/assets/58328953/30d10f6d-6675-47b3-85e8-8a1801032e55
+https://github.com/cross-psix/FreeCrypto/assets/167144765/a3bbcfbe-48d4-473a-8e83-a3e488f6400d
+
 
 
 
