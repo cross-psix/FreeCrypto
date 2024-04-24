@@ -27,9 +27,7 @@
 
 
 
-
-https://github.com/cross-psix/FreeCrypto/assets/167144765/a3bbcfbe-48d4-473a-8e83-a3e488f6400d
-
+https://github.com/cross-psix/FreeCrypto/assets/167144765/8bcbdb4d-ef15-4b40-84d5-a30985efa3de
 
 
 
